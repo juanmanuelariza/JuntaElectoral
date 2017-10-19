@@ -1,0 +1,60 @@
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\juan manuel ariza\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\ApplicationInsights.config
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\csc.exe
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\vbc.exe
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.dll.config
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.pdb
+D:\Sistemas\JuntaElectoral\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Juan Manuel\Documents\Sistemas\JuntaElectoral\WebApplication1\obj\Debug\WebApplication1.pdb
